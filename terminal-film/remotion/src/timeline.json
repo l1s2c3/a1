@@ -1,0 +1,264 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "duration": 53.632,
+  "total_frames": 1609,
+  "segments": [
+    {
+      "id": "SEG001",
+      "start": 0.0,
+      "end": 15.0
+    },
+    {
+      "id": "SEG002",
+      "start": 15.0,
+      "end": 30.108
+    },
+    {
+      "id": "SEG003",
+      "start": 30.108,
+      "end": 45.108
+    },
+    {
+      "id": "SEG004",
+      "start": 45.108,
+      "end": 53.032
+    }
+  ],
+  "narration": [
+    {
+      "id": "v1",
+      "chapter": "SEG001",
+      "text": "你为得到某样东西，吃过多少苦",
+      "start": 0.5,
+      "end": 3.212,
+      "duration": 2.712
+    },
+    {
+      "id": "v2",
+      "chapter": "SEG001",
+      "text": "回想一下，那段最难熬的时候",
+      "start": 3.5,
+      "end": 6.14,
+      "duration": 2.64
+    },
+    {
+      "id": "v3",
+      "chapter": "SEG001",
+      "text": "付出的痛苦越多，越容易高估它的价值",
+      "start": 7.5,
+      "end": 10.764,
+      "duration": 3.264
+    },
+    {
+      "id": "v4",
+      "chapter": "SEG001",
+      "text": "哪怕它其实很普通",
+      "start": 11.5,
+      "end": 13.372,
+      "duration": 1.872
+    },
+    {
+      "id": "v5",
+      "chapter": "SEG002",
+      "text": "大脑不想承认，换来的东西不值",
+      "start": 15.5,
+      "end": 18.116,
+      "duration": 2.616
+    },
+    {
+      "id": "v6",
+      "chapter": "SEG002",
+      "text": "这种自我怀疑，让人很难受",
+      "start": 19.5,
+      "end": 21.996,
+      "duration": 2.496
+    },
+    {
+      "id": "v7",
+      "chapter": "SEG002",
+      "text": "大脑主动抬高目标的价值",
+      "start": 24.0,
+      "end": 26.472,
+      "duration": 2.472
+    },
+    {
+      "id": "v8",
+      "chapter": "SEG002",
+      "text": "把痛苦合理化",
+      "start": 28.0,
+      "end": 29.608,
+      "duration": 1.608
+    },
+    {
+      "id": "v9",
+      "chapter": "SEG003",
+      "text": "一九五九年，一个经典实验",
+      "start": 30.5,
+      "end": 32.948,
+      "duration": 2.448
+    },
+    {
+      "id": "v10",
+      "chapter": "SEG003",
+      "text": "一组轻松进入，一组要先通过难堪的测试",
+      "start": 34.5,
+      "end": 38.052,
+      "duration": 3.552
+    },
+    {
+      "id": "v11",
+      "chapter": "SEG003",
+      "text": "结果，难堪的那组评价反而更高",
+      "start": 40.0,
+      "end": 42.976,
+      "duration": 2.976
+    },
+    {
+      "id": "v12",
+      "chapter": "SEG004",
+      "text": "艰难不等于有价值",
+      "start": 45.3,
+      "end": 47.316,
+      "duration": 2.016
+    },
+    {
+      "id": "v13",
+      "chapter": "SEG004",
+      "text": "把付出和价值分开算",
+      "start": 49.2,
+      "end": 51.432,
+      "duration": 2.232
+    }
+  ],
+  "sfx": [
+    {
+      "name": "hum",
+      "start": 0.0,
+      "duration": 15.0
+    },
+    {
+      "name": "typing",
+      "start": 3.5,
+      "duration": 2.8400000000000003,
+      "style": "slow"
+    },
+    {
+      "name": "whoosh",
+      "start": 7.5,
+      "duration": 0.9
+    },
+    {
+      "name": "ping",
+      "start": 9.1,
+      "duration": 0.5
+    },
+    {
+      "name": "riser",
+      "start": 11.5,
+      "duration": 1.7,
+      "to": 1400
+    },
+    {
+      "name": "level_ticks",
+      "start": 11.8,
+      "duration": 1.4,
+      "count": 5
+    },
+    {
+      "name": "flash",
+      "start": 14.2,
+      "duration": 0.8
+    },
+    {
+      "name": "zap",
+      "start": 15.0,
+      "duration": 0.6
+    },
+    {
+      "name": "pulse",
+      "start": 15.0,
+      "duration": 14.608,
+      "period": 1.5
+    },
+    {
+      "name": "alarm",
+      "start": 19.65,
+      "duration": 1.1
+    },
+    {
+      "name": "glitch",
+      "start": 19.5,
+      "duration": 2.2
+    },
+    {
+      "name": "typing",
+      "start": 24.0,
+      "duration": 2.6,
+      "style": "fast"
+    },
+    {
+      "name": "confirm",
+      "start": 29.408,
+      "duration": 0.8
+    },
+    {
+      "name": "typing",
+      "start": 30.5,
+      "duration": 2.4,
+      "style": "slow"
+    },
+    {
+      "name": "chime_soft",
+      "start": 34.8,
+      "duration": 0.6
+    },
+    {
+      "name": "alert",
+      "start": 35.6,
+      "duration": 1.2
+    },
+    {
+      "name": "bar_rise",
+      "start": 40.0,
+      "duration": 1.6,
+      "to": 500
+    },
+    {
+      "name": "bar_rise",
+      "start": 40.25,
+      "duration": 1.7,
+      "to": 1500
+    },
+    {
+      "name": "bgm_lift",
+      "start": 41.9,
+      "duration": 0.7
+    },
+    {
+      "name": "typing",
+      "start": 45.3,
+      "duration": 2.0,
+      "style": "red"
+    },
+    {
+      "name": "blip2",
+      "start": 47.816,
+      "duration": 0.8
+    },
+    {
+      "name": "end_tone",
+      "start": 49.2,
+      "duration": 4.431999999999995
+    }
+  ],
+  "theme": {
+    "bg": "#000000",
+    "primary": "#00FF9C",
+    "dim": "#9AA5A1",
+    "muted": "#3A4442",
+    "red": "#FF3B4E",
+    "amber": "#FFB020"
+  }
+}

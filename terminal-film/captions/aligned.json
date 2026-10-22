@@ -1,0 +1,136 @@
+{
+  "fps": 30,
+  "total_duration": 53.632,
+  "lines": [
+    {
+      "id": "v1",
+      "chapter": "SEG001",
+      "text": "你为得到某样东西，吃过多少苦",
+      "start": 0.5,
+      "end": 3.212,
+      "duration": 2.712,
+      "start_frame": 15,
+      "end_frame": 96
+    },
+    {
+      "id": "v2",
+      "chapter": "SEG001",
+      "text": "回想一下，那段最难熬的时候",
+      "start": 3.5,
+      "end": 6.14,
+      "duration": 2.64,
+      "start_frame": 105,
+      "end_frame": 184
+    },
+    {
+      "id": "v3",
+      "chapter": "SEG001",
+      "text": "付出的痛苦越多，越容易高估它的价值",
+      "start": 7.5,
+      "end": 10.764,
+      "duration": 3.264,
+      "start_frame": 225,
+      "end_frame": 323
+    },
+    {
+      "id": "v4",
+      "chapter": "SEG001",
+      "text": "哪怕它其实很普通",
+      "start": 11.5,
+      "end": 13.372,
+      "duration": 1.872,
+      "start_frame": 345,
+      "end_frame": 401
+    },
+    {
+      "id": "v5",
+      "chapter": "SEG002",
+      "text": "大脑不想承认，换来的东西不值",
+      "start": 15.5,
+      "end": 18.116,
+      "duration": 2.616,
+      "start_frame": 465,
+      "end_frame": 543
+    },
+    {
+      "id": "v6",
+      "chapter": "SEG002",
+      "text": "这种自我怀疑，让人很难受",
+      "start": 19.5,
+      "end": 21.996,
+      "duration": 2.496,
+      "start_frame": 585,
+      "end_frame": 660
+    },
+    {
+      "id": "v7",
+      "chapter": "SEG002",
+      "text": "大脑主动抬高目标的价值",
+      "start": 24.0,
+      "end": 26.472,
+      "duration": 2.472,
+      "start_frame": 720,
+      "end_frame": 794
+    },
+    {
+      "id": "v8",
+      "chapter": "SEG002",
+      "text": "把痛苦合理化",
+      "start": 28.0,
+      "end": 29.608,
+      "duration": 1.608,
+      "start_frame": 840,
+      "end_frame": 888
+    },
+    {
+      "id": "v9",
+      "chapter": "SEG003",
+      "text": "一九五九年，一个经典实验",
+      "start": 30.5,
+      "end": 32.948,
+      "duration": 2.448,
+      "start_frame": 915,
+      "end_frame": 988
+    },
+    {
+      "id": "v10",
+      "chapter": "SEG003",
+      "text": "一组轻松进入，一组要先通过难堪的测试",
+      "start": 34.5,
+      "end": 38.052,
+      "duration": 3.552,
+      "start_frame": 1035,
+      "end_frame": 1142
+    },
+    {
+      "id": "v11",
+      "chapter": "SEG003",
+      "text": "结果，难堪的那组评价反而更高",
+      "start": 40.0,
+      "end": 42.976,
+      "duration": 2.976,
+      "start_frame": 1200,
+      "end_frame": 1289
+    },
+    {
+      "id": "v12",
+      "chapter": "SEG004",
+      "text": "艰难不等于有价值",
+      "start": 45.3,
+      "end": 47.316,
+      "duration": 2.016,
+      "start_frame": 1359,
+      "end_frame": 1419
+    },
+    {
+      "id": "v13",
+      "chapter": "SEG004",
+      "text": "把付出和价值分开算",
+      "start": 49.2,
+      "end": 51.432,
+      "duration": 2.232,
+      "start_frame": 1476,
+      "end_frame": 1543
+    }
+  ]
+}

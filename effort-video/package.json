@@ -1,0 +1,20 @@
+{
+  "name": "terminal-film",
+  "version": "1.0.0",
+  "private": true,
+  "description": "代码驱动型科普动画：暗黑终端美学（Remotion 逐帧渲染）",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "typescript": "^5.6.3"
+  }
+}
